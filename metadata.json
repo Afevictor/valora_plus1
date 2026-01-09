@@ -1,0 +1,8 @@
+{
+  "name": "Valora Plus lu new new",
+  "description": "Comprehensive platform for workshops: damage assessment, claims management, and profitability analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
